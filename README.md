@@ -1,6 +1,8 @@
 # Tree-plant-classification-in-CNN
 It's a Machine Learning based project. I used MobileNet V2 here. In dataset I used 1349 images for  and 333 images for validations. I used 10 types of fruit and I categorized them in datasets.
 
+### <a href="https://drive.google.com/drive/folders/1VdrxZBshloNSJ46VVUvkkXKLtgggWyKS?usp=share_link">Download Dataset from here...</a>
+
 Dataset-Apple
 ![image](https://user-images.githubusercontent.com/24592387/229769407-15a79c20-eeeb-4c4b-b195-75f4cad8d477.png)
 Dataset-Banana
